@@ -1,0 +1,6 @@
+title:Basics
+artist:Guatapuri
+mapper:Guatapuri
+difficulties:easy
+bpm:60
+startOffset:0

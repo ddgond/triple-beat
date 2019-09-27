@@ -1,0 +1,6 @@
+title:The Clock Has Started
+artist:Guatapuri
+mapper:Guatapuri
+difficulties:easy,regular,expert
+bpm:200
+startOffset:0
